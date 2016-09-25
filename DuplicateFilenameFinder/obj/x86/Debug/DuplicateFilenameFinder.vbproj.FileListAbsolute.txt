@@ -1,0 +1,15 @@
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\bin\Debug\DuplicateFilenameFinder.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\bin\Debug\DuplicateFilenameFinder.pdb
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\bin\Debug\DuplicateFilenameFinder.xml
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.Resources.resources
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.exe
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.xml
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.pdb
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.dlgDuplicateFilenameFoundDialog.resources
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.frmMainForm.resources
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.ucDuplicateFileUserControl.resources
+c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.dlgScanReport.resources
+C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\bin\Debug\DuplicateFilenameFinder.exe.config
