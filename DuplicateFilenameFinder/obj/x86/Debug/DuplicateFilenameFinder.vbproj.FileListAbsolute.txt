@@ -13,3 +13,17 @@ c:\documents and settings\owner\my documents\visual studio 2010\Projects\Duplica
 c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.ucDuplicateFileUserControl.resources
 c:\documents and settings\owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.dlgScanReport.resources
 C:\Documents and Settings\Owner\my documents\visual studio 2010\Projects\DuplicateFilenameFinder\DuplicateFilenameFinder\bin\Debug\DuplicateFilenameFinder.exe.config
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\bin\Debug\DuplicateFilenameFinder.exe.config
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\bin\Debug\DuplicateFilenameFinder.exe
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\bin\Debug\DuplicateFilenameFinder.pdb
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\bin\Debug\DuplicateFilenameFinder.xml
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.vbprojResolveAssemblyReference.cache
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.dlgDuplicateFilenameFoundDialog.resources
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.dlgScanReport.resources
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.frmMainForm.resources
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.Resources.resources
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.ucDuplicateFileUserControl.resources
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.vbproj.GenerateResource.Cache
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.exe
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.xml
+C:\Users\jared\Documents\_Personal Projects\Duplicate File Name Finder\DuplicateFilenameFinder\obj\x86\Debug\DuplicateFilenameFinder.pdb
