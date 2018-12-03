@@ -5,5 +5,5 @@
 </p>
 <br>
 <p align="center">
-  <img src="https://github.com/Obsessive-Coder/Weather-App/blob/master/images/screenshot.png?raw=true" width="550">
+  <img src="https://github.com/Obsessive-Coder/Duplicate-File-Name-Finder/blob/master/images/duplicate_file_finder.png?raw=true" width="550">
 </p>
